@@ -17,6 +17,7 @@
 				<Item Name="Example Actor.lvlib" Type="Library" URL="../examples/Example/Example Actor/Example Actor.lvlib"/>
 				<Item Name="Application Main.vi" Type="VI" URL="../examples/Example/Application Main.vi"/>
 				<Item Name="Special Monitor.lvclass" Type="LVClass" URL="../examples/Example/Special Monitor/Special Monitor.lvclass"/>
+				<Item Name="Monitored Actor Example.lvproj" Type="Document" URL="../examples/Example/Monitored Actor Example.lvproj"/>
 			</Item>
 		</Item>
 		<Item Name="help" Type="Folder">
@@ -35,6 +36,7 @@
 			<Item Name="Monitored Actor Switcher.vi" Type="VI" URL="../project/Monitored Actor Switcher.vi"/>
 		</Item>
 		<Item Name="Monitored Actor.vipb" Type="Document" URL="../Monitored Actor.vipb"/>
+		<Item Name="PostInstall.vi" Type="VI" URL="../PostInstall.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>

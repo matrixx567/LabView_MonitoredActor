@@ -1,0 +1,13 @@
+# Executable Code
+*.dll
+*.so
+*.so.*
+*.exe
+builds/
+
+#Packages
+gpm_packages/
+
+# Meta Data
+*.aliases
+*.lvlps

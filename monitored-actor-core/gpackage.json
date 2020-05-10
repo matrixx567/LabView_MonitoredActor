@@ -1,0 +1,29 @@
+{
+	"author": {
+		"email": "support@mooregoodideas.com",
+		"name": "Moore Good Ideas, Inc",
+		"url": "https://www.mooregoodideas.com"
+	},
+	"bugs": "https://gitlab.com/mgi/gpm-packages/monitored-actor-core/issues",
+	"contributors": [
+		{
+			"email": "derek@mooregoodideas.com",
+			"name": "Derek Trepanier",
+			"url": "https://www.mooregoodideas.com/"
+		}
+	],
+	"description": "The core functionality to monitor actors",
+	"files": [
+		"Source/"
+	],
+	"keywords": [
+		"debug",
+		"actor-framework",
+		"AF"
+	],
+	"license": "BSD-3-Clause",
+	"lvversion": ">=17",
+	"name": "@mgi/monitored-actor-core",
+	"repository": "https://gitlab.com/mgi/gpm-packages/monitored-actor-core",
+	"version": "3.0.4"
+}

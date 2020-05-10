@@ -1,5 +1,3 @@
-# Monitored Actor
-
 Any actor-based system can get complicated quickly. The MGI Monitored Actor provides a quick and easy way to visualize what actors are currently running in the system and provides tools to help debug those running actors.
 
 ## The Question
@@ -26,20 +24,8 @@ Once your monitored actor is launched, the monitored actor window will launch. T
 
 Additionally, from the monitored actor window you can send stop messages and perform a few other debug tasks.
 
----
+## Contributing
 
-MGI currently works with the GPM Package Manager and decided to stop the support for VIPM. This package is based on the GPM packages of the MGI Monitored Actor. It also add the support of the previously published examples and tool Monitored Actors Switcher.
+See [Contributing.md](CONTRIBUTING.md) for information on how to submit pull requests. Bugs can be reported using the repositories issue tracker.
 
-This VIPM package is based on the following GPM packages:
-
-https://gpackage.io/packages/@mgi/monitored-actor  
-https://gitlab.com/mgi/gpm-packages/monitored-actor  
-
-https://gpackage.io/packages/@mgi/monitored-actor-core  
-https://gitlab.com/mgi/gpm-packages/monitored-actor-core  
-
-## Installation notes
-The original MGI Monitored Actor package isn't set as incompatible package. But considered to remove the original MGI Monitored Actor package before installing this package.
-
-## Legacy Software:
-Be sure to change the inheritance of your actors to the provides Monitored Actor of this package.
+#### _This package is implemented with LabVIEW 2017_

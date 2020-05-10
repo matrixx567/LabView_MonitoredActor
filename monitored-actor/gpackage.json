@@ -1,0 +1,52 @@
+{
+	"author": {
+		"email": "support@mooregoodideas.com",
+		"name": "Moore Good Ideas, Inc",
+		"url": "https://www.mooregoodideas.com"
+	},
+	"bugs": "https://gitlab.com/mgi/gpm-packages/monitored-actor/issues",
+	"contributors": [
+		{
+			"email": "derek@mooregoodideas.com",
+			"name": "Derek Trepanier",
+			"url": "https://www.mooregoodideas.com/"
+		}
+	],
+	"dependencies": {
+		"@mgi/monitored-actor-core": "^3.0.1"
+	},
+	"description": "Provides a quick way to visual actor based applications",
+	"files": [
+		"Source/"
+	],
+	"keywords": [
+		"Actor Framework",
+		"AF",
+		"debug"
+	],
+	"license": "BSD-3-Clause",
+	"lvversion": ">=17",
+	"name": "@mgi/monitored-actor",
+	"os": [
+		"Mac OS",
+		"Windows 3.1",
+		"Windows 95/NT",
+		"Solaris 1",
+		"Solaris 2",
+		"HP-UX",
+		"PowerMAX",
+		"Linux",
+		"Irix",
+		"Rhapsody",
+		"BeOS",
+		"AIX",
+		"OSF1",
+		"Carbon",
+		"RTX",
+		"Windows x64",
+		"Linux x64",
+		"Mac OS X x64"
+	],
+	"repository": "https://gitlab.com/mgi/gpm-packages/monitored-actor",
+	"version": "3.0.3"
+}
